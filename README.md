@@ -8,7 +8,7 @@
 
 ### Reach out to me
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/itchdotio.svg" align="left" />][itchdotio]
+[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/gamejolt.svg" align="left" />][itchdotio]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" align="left" />][twitter]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/github.svg" align="left" />][githubpages]
