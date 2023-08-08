@@ -1,4 +1,4 @@
-<img src="https://img.itch.zone/aW1nLzEyOTIxODEwLnBuZw==/original/0pSc0Q.png" align="center" width="800" height="200">
+<img src="https://img.itch.zone/aW1nLzEyOTIxODEwLnBuZw==/original/0pSc0Q.png" align="center" width="1280" height="250">
 
 ##
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJpNG80ZHB4cDc3NXVkY2E5N283bndocXV3ZW9vaTdpNGFkc2dzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwoOoDZpEpdQewQdRR/giphy.gif" align="right" width="400" height="250">
