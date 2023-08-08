@@ -27,7 +27,7 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="45" height="45" />
 <br />
 
-###
+##
 - <font color="pink">:fire: Desire for continuous self-improvement.</font>
 - <font color="pink">:grey_question: Problem solving, critical thinking and communication skills.</font>
 - <font color="pink">:video_game: A strong passion for playing games.</font>
