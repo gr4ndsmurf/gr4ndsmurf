@@ -18,7 +18,7 @@
 
 ## SKILLS
 
-<img align="left"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png?size=48" width="45" height="45" />
+<img align="left"  src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png?size=48" width="45" height="45" />
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png?size=48" width="45" height="45" />
 <img align="left" src="https://i.hizliresim.com/t9xnpxa.png" width="45" height="45" />
 <img align="left" src="https://i.hizliresim.com/p1n3pwg.png" width="45" height="45" />
