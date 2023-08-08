@@ -11,7 +11,7 @@
 [<img  width="35" src="https://static.itch.io/images/app-icon.svg" align="left" />][itchdotio]
 [<img  width="35" src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" align="left" />][twitter]
 [<img  width="45" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" align="left" />][linkedin]
-[<img  width="45" src="https://pages.github.com/images/logo.svg" align="center" />][githubpages]
+[<img  width="55" src="https://pages.github.com/images/logo.svg" align="center" />][githubpages]
 
 <br />
 <br />
