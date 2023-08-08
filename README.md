@@ -6,7 +6,7 @@
 
 <font color="cyan">:fire: “The only truth I found is that the world we live in is a giant tinderbox. All it takes is someone to light the match.” - Captain Price</font>
 
-### Reach out to me
+### LINKS
 
 [<img  width="45" src="https://static.itch.io/images/app-icon.svg" align="left" />][itchdotio]
 [<img  width="45" src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" align="left" />][twitter]
