@@ -1,10 +1,11 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJpNG80ZHB4cDc3NXVkY2E5N283bndocXV3ZW9vaTdpNGFkc2dzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwoOoDZpEpdQewQdRR/giphy.gif" align="right" width="400" height="250">
+
 
 ### Hi there, I'm gr4ndsmurf. :computer:
 
-## Game Developer
+## Game Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJpNG80ZHB4cDc3NXVkY2E5N283bndocXV3ZW9vaTdpNGFkc2dzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwoOoDZpEpdQewQdRR/giphy.gif" align="right" width="400" height="250">
 
-<font color="cyan">:fire: “The only truth I found is that the world we live in is a giant tinderbox. All it takes is someone to light the match.” - Captain Price</font>
+<font color="cyan">:fire: “The only truth I found is that the world we live in is a giant tinderbox. All it takes is someone to light the match.” - Captain Price</font> 
+
 
 ### LINKS
 
