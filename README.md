@@ -15,26 +15,6 @@
 [<img  width="55" src="https://pages.github.com/images/logo.svg" align="center" />][githubpages]
 
 <br />
-<br />
-
-## SKILLS
-
-<img align="left"  src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png?size=48" width="45" height="45" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png?size=48" width="45" height="45" />
-<img align="left" src="https://i.hizliresim.com/t9xnpxa.png" width="45" height="45" />
-<img align="left" src="https://i.hizliresim.com/p1n3pwg.png" width="50" height="50" />
-<img align="left" src="https://i.hizliresim.com/7rrou7j.png" width="50" height="50" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png?size=48" width="45" height="45" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="45" height="45" />
-<br />
-
-##
-- <font color="pink">:fire: Desire for continuous self-improvement.</font>
-- <font color="pink">:grey_question: Problem solving, critical thinking and communication skills.</font>
-- <font color="pink">:video_game: A strong passion for playing games.</font>
-- <font color="pink">:office: Suitable for teamwork.</font>
-
-<br />
 
 [itchdotio]: https://gr4ndsmurf.itch.io
 [twitter]: https://twitter.com/gr4ndsmurf
