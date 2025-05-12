@@ -14,6 +14,8 @@
 [<img  width="45" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" align="left" />][linkedin]
 [<img  width="55" src="https://pages.github.com/images/logo.svg" align="center" />][githubpages]
 
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,blender,ps,git)](https://gr4ndsmurf.github.io/)
+
 <br />
 
 [itchdotio]: https://gr4ndsmurf.itch.io
