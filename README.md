@@ -6,10 +6,11 @@
 
 ### LINKS
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/akinhaydaroglu/)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/gr4ndsmurf)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:akinhaydaroglu28@gmail.com)
-[![Mypage](https://github.com/gr4ndsmurf/gr4ndsmurf.github.io/blob/main/img/gr4ndsmurf_logo_v1.png?raw=true)](https://gr4ndsmurf.github.io/)
+[<img  width="40" src="https://skillicons.dev/icons?i=linkedin" align="left" />][linkedin]
+[<img  width="40" src="https://skillicons.dev/icons?i=twitter" align="left" />][twitter]
+[<img  width="45" src="https://skillicons.dev/icons?i=gmail" align="left" />][gmail]
+[<img  width="40" src="https://static.itch.io/images/app-icon.svg" align="left" />][itchdotio]
+[<img  width="40" src="https://github.com/gr4ndsmurf/gr4ndsmurf.github.io/blob/main/img/gr4ndsmurf_logo_v1.png?raw=true" align="center" />][mypage]
 
 ### MY SKILLS
 
