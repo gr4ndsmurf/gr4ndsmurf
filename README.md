@@ -8,8 +8,8 @@
 
 [<img  width="40" src="https://static.itch.io/images/app-icon.svg" align="left" />][itchdotio]
 [<img  width="40" src="https://skillicons.dev/icons?i=twitter" align="left" />][twitter]
-[<img  width="45" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" align="left" />][linkedin]
-[<img  width="40" src="https://github.com/gr4ndsmurf/gr4ndsmurf.github.io/blob/main/img/gr4ndsmurf_logo_v1.png?raw=true" align="center" />][githubpages]
+[<img  width="40" src="https://skillicons.dev/icons?i=linkedin" align="left" />][linkedin]
+[<img  width="40" src="https://github.com/gr4ndsmurf/gr4ndsmurf.github.io/blob/main/img/gr4ndsmurf_logo_v1.png?raw=true" align="center" />][mypage]
 
 ### MY SKILLS
 
@@ -20,4 +20,4 @@
 [itchdotio]: https://gr4ndsmurf.itch.io
 [twitter]: https://twitter.com/gr4ndsmurf
 [linkedin]: https://www.linkedin.com/in/akinhaydaroglu/
-[githubpages]: https://gr4ndsmurf.github.io
+[mypage]: https://gr4ndsmurf.github.io
