@@ -8,7 +8,7 @@
 
 [<img  width="40" src="https://skillicons.dev/icons?i=linkedin" align="left" />][linkedin]
 [<img  width="40" src="https://skillicons.dev/icons?i=twitter" align="left" />][twitter]
-[<img  width="40" src="https://skillicons.dev/icons?i=gmail" align="left" />][gmail]
+[<img  width="45" src="https://skillicons.dev/icons?i=gmail" align="left" />][gmail]
 [<img  width="40" src="https://static.itch.io/images/app-icon.svg" align="left" />][itchdotio]
 [<img  width="40" src="https://github.com/gr4ndsmurf/gr4ndsmurf.github.io/blob/main/img/gr4ndsmurf_logo_v1.png?raw=true" align="center" />][mypage]
 
